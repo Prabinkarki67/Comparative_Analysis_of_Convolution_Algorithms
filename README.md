@@ -70,13 +70,13 @@ The notebook performs the convolution benchmarks and generates the measurements 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
+git clone https://github.com/Prabinkarki67/Comparative_Analysis_of_Convolution_Algorithms.git
 ```
 
 Move into the repository:
 
 ```bash
-cd <your-repository>
+cd <Comparative_Analysis_of_Convolution_Algorithms>
 ```
 
 Install the required Python packages:
