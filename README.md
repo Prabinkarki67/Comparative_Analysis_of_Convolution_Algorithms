@@ -145,8 +145,6 @@ Paper.pdf
 
 **Prabin Karki**
 
-[Add other authors here]
-
 ## License
 
 This project is intended for **academic and research purposes**.
